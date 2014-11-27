@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32">
+  <image source="../../Users/Li Shunan/Downloads/tiles.png" width="256" height="4800"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="Grass"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="type" value="Water"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="ground" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo5hILISGB8peetk/EPbisnOg7KV3/NIrTY3iwYcHKg0AABYKBAU=
+  </data>
+ </layer>
+ <objectgroup name="buildings">
+  <object name="town01" type="Town" gid="50" x="448" y="160" width="32" height="32"/>
+ </objectgroup>
+ <layer name="building" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowATGA20A0bBKBgFo4BOAAD96AAz
+  </data>
+ </layer>
+</map>

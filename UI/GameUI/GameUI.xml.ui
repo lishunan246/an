@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Game\UI\GameUI</ProjectDir>
+  <Version>1.4.0.1</Version>
+  <Resources>C:\Game\UI\GameUI\Resources</Resources>
+  <Name>GameUI</Name>
+  <JsonFileName>GameUI.json</JsonFileName>
+  <JsonFolder>C:\Game\UI\GameUI\Json</JsonFolder>
+  <JsonList>
+    <string>GameUI_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+  <filePath>C:\Game\UI\GameUI\GameUI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>GameUI0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>GameUI_1.json</CurrentUIJson>
+</UIProject>
